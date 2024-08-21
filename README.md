@@ -3,7 +3,7 @@
 This repository contains my answers and explanations for various SQL challenges on SQL Zoo. Each section corresponds to a different challenge category.
 
   - [SELECT Basics](#select-basics)
-  - [SELECT from World](#select-from-world)
+  - [SELECT from World](#select-from-world.sql)
   - [SELECT from Nobel](#select-from-nobel)
   - [SELECT in SELECT](#select-in-select)
   - [SUM and COUNT](#sum-and-count)
